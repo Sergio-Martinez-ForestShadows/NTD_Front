@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+*.venv
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Flask specific files
+instance/
+
+# Dependency directories
+lib/
+bin/
+include/
+lib64/
+
+# Environment configuration files
+.env
+.env.*
+application_default_credentials.json
+serviceAccountKey.json
+
+# Scripts
+scripts/
+
+#pass fiules
+.DS_Store
+
+# Node / React
+
+# Dependencias
+node_modules/
+
+# Builds
+build/
+dist/
+coverage/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor
+*.sublime-project
+*.sublime-workspace
+
+# Sistema
+Thumbs.db
+.DS_Store
+
+# Misc
+.cache/
+.parcel-cache/
+.next/
+out/
+
