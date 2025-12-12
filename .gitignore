@@ -40,3 +40,33 @@ scripts/
 
 #pass fiules
 .DS_Store
+
+# Node / React
+
+# Dependencias
+node_modules/
+
+# Builds
+build/
+dist/
+coverage/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor
+*.sublime-project
+*.sublime-workspace
+
+# Sistema
+Thumbs.db
+.DS_Store
+
+# Misc
+.cache/
+.parcel-cache/
+.next/
+out/
+
